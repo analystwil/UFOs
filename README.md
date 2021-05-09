@@ -4,7 +4,7 @@
 
 The purpose of this project is to create an interactive webpage that will allow readers to parse data around UFO sightings. I have created the webpage in which the users will view the data (HTML). And the dynamic table that will present the data to the users (JavaScript).
 
-##Results: 
+## Results: 
 
 The users can use the search criteria in many ways. One can enter the data, city, state, country and shape for the UFO Sighting.
 
@@ -12,28 +12,27 @@ For the Example I will be using the following data below:
 
 Date : 1/5/2010
 
-/Users/Ash/Desktop/Screen Shot 2021-05-08 at 10.20.39 PM.png
+![image](https://user-images.githubusercontent.com/77358388/117558532-5bdac880-b04c-11eb-847e-5f6fc72baada.png)
 
 City: princeton
 
-/Users/Ash/Desktop/Screen Shot 2021-05-08 at 10.22.00 PM.png
+![image](https://user-images.githubusercontent.com/77358388/117558540-64330380-b04c-11eb-8ddd-7fff100dd14f.png)
 
 State: nj
 
-/Users/Ash/Desktop/Screen Shot 2021-05-08 at 10.22.29 PM.png
+![image](https://user-images.githubusercontent.com/77358388/117558544-6a28e480-b04c-11eb-9e00-326e875cf642.png)
 
 Country: us
 
-/Users/Ash/Desktop/Screen Shot 2021-05-08 at 10.22.53 PM.png
+![image](https://user-images.githubusercontent.com/77358388/117558548-701ec580-b04c-11eb-938d-aa768d410ec8.png)
 
 Shape: cigar
 
-/Users/Ash/Desktop/Screen Shot 2021-05-08 at 10.23.21 PM.png
+![image](https://user-images.githubusercontent.com/77358388/117558552-7614a680-b04c-11eb-930d-61f19de73ef5.png)
 
 Once the user enters the appropriate information into the designated field the table will generate the results.
 
-
-##Summary:
+## Summary:
 
 One drawback of the design I would say is the layout of the page it looks a bit crowded to me.
 
